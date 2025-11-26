@@ -21,3 +21,6 @@ winget install git-lfs
 sudo apt-get install git-lfs
 ```
 
+## Access this repo with the QR code:
+![Greyscale](./repo_QR_code.png)
+
